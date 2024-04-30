@@ -1,4 +1,4 @@
-# product_cart
+# Online Grocery Store Made With Vue
 
 ## Project setup
 ```
